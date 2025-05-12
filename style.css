@@ -31,3 +31,29 @@ a {
     color: #F9FAF8;
 }
 
+.banner {
+    display: flex;
+    justify-content: center;
+    align-items: stretch;
+}
+
+.left-banner,.right-banner {
+    
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: center;
+  
+}
+
+.mainImg{
+    
+  
+}
+
+.right-banner {
+
+    background-color: #E5E7Eb;
+    border: 1px solid red;
+}
